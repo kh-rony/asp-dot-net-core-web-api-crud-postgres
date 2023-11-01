@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUlsyVofeN9jOaGVW2pAHIEOFm8WSV/42On5T5Vcs3I=",
+  "Source": "asp-dot-net-core-web-api-crud-postgres",
+  "BasePath": "_content/asp-dot-net-core-web-api-crud-postgres",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
